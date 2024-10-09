@@ -1,0 +1,7 @@
+D:\Nagy Álmos Botond\c éles\doga1\doga1\bin\Debug\doga1.exe.config
+D:\Nagy Álmos Botond\c éles\doga1\doga1\bin\Debug\doga1.exe
+D:\Nagy Álmos Botond\c éles\doga1\doga1\bin\Debug\doga1.pdb
+D:\Nagy Álmos Botond\c éles\doga1\doga1\obj\Debug\doga1.csproj.AssemblyReference.cache
+D:\Nagy Álmos Botond\c éles\doga1\doga1\obj\Debug\doga1.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\c éles\doga1\doga1\obj\Debug\doga1.exe
+D:\Nagy Álmos Botond\c éles\doga1\doga1\obj\Debug\doga1.pdb
