@@ -1,0 +1,67 @@
+using System.Reflection;
+
+namespace Testtomegindex
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //----------------------------------------------------------------------------------
+            //                                      ADATBEKÉRÉS
+            Console.WriteLine("Adja meg a testtömegét! [kg]");
+            double tomeg = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Adja meg a testmagasságát! [m]");
+            double magassag = Convert.ToDouble(Console.ReadLine());
+
+            //----------------------------------------------------------------------------------
+            //                                      SZÁMOLÁS I.
+            //                                  ADATOK ÖSSZEÍRÁSA
+
+            double magassag_negyzet = magassag * magassag;
+            double tti = tomeg / magassag_negyzet;
+            Console.WriteLine($"A maga testtömegindexe: {tti}!");
+
+            //----------------------------------------------------------------------------------
+            //                                      OSZTÁLYOZÁS
+
+            if (tti >= 40) 
+            { 
+                Console.WriteLine("Maga a III. fokú elhízás osztályába tartozik! Tömd a majmot!");
+            }
+            else if (tti >= 35)
+            {
+                Console.WriteLine("Maga a II. fokú elhízás osztályába tartozik!");
+            }
+            else if (tti >= 30)
+            {
+                Console.WriteLine("Maga a I. fokú elhízás osztályába tartozik!");
+            }
+            else if (tti >= 25)
+            {
+                Console.WriteLine("Maga a túlsúlyos osztályba tartozik!");
+            }
+            else if (tti >= 18.5)
+            {
+                Console.WriteLine("Maga a normális osztályba tartozik!");
+            }
+            else if (tti >= 17)
+            {
+                Console.WriteLine("Maga a enyhe soványság osztályába tartozik!");
+            }
+            else if (tti >= 16)
+            {
+                Console.WriteLine("Maga a mérsékelt soványság osztályába tartozik!");
+            }
+            else if (tti <= 16)
+            {
+                Console.WriteLine("Maga a súlyos soványság osztályába tartozik!");
+            }
+
+            //----------------------------------------------------------------------------------
+            //                                      console
+
+            Console.ReadLine();
+        }
+    }
+}
