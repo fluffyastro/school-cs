@@ -1,2 +1,3 @@
-# C# shit in school
-### hi
+# Iskolai C# 
+
+Iskolán belüli C# lmao
