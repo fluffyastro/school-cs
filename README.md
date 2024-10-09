@@ -1,2 +1,1 @@
-# school-cs
-C# in school
+# C# shit in school
