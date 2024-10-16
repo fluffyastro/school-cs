@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\bin\Debug\net8.0\switch.exe
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\bin\Debug\net8.0\switch.deps.json
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\bin\Debug\net8.0\switch.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\bin\Debug\net8.0\switch.pdb
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\refint\switch.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.pdb
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\switch\switch\obj\Debug\net8.0\ref\switch.dll
