@@ -1,3 +1,3 @@
-# Iskolai C# 
+# School C# 
 
-Iskolán belüli C# lmao
+C# from school lessons
