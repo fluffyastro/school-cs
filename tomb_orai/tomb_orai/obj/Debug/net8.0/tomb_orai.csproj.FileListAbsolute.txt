@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\bin\Debug\net8.0\tomb_orai.exe
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\bin\Debug\net8.0\tomb_orai.deps.json
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\bin\Debug\net8.0\tomb_orai.runtimeconfig.json
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\bin\Debug\net8.0\tomb_orai.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\bin\Debug\net8.0\tomb_orai.pdb
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.AssemblyInfo.cs
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\refint\tomb_orai.dll
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.pdb
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\tomb_orai.genruntimeconfig.cache
+D:\Nagy Álmos Botond\c éles\Órai Munka\tomb_orai\tomb_orai\obj\Debug\net8.0\ref\tomb_orai.dll

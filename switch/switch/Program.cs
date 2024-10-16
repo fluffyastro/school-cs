@@ -30,7 +30,7 @@ internal class Program
                 Console.WriteLine("Elégséges! :(");
                 break;
             default:
-                Console.WriteLine("Elégtelen! :-(");
+                Console.WriteLine("Elégtelen! :-C");
                 break;
         }
     }
