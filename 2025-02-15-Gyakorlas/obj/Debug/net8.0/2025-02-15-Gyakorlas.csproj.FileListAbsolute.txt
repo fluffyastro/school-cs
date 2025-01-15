@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\bin\Debug\net8.0\2025-02-15-Gyakorlas.exe
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\bin\Debug\net8.0\2025-02-15-Gyakorlas.deps.json
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\bin\Debug\net8.0\2025-02-15-Gyakorlas.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\bin\Debug\net8.0\2025-02-15-Gyakorlas.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\bin\Debug\net8.0\2025-02-15-Gyakorlas.pdb
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\refint\2025-02-15-Gyakorlas.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.pdb
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\2025-02-15-Gyakorlas.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyakorlas\obj\Debug\net8.0\ref\2025-02-15-Gyakorlas.dll
