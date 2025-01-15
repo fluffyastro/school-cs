@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\bin\Debug\net8.0\2025-02-15-Gyak2.exe
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\bin\Debug\net8.0\2025-02-15-Gyak2.deps.json
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\bin\Debug\net8.0\2025-02-15-Gyak2.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\bin\Debug\net8.0\2025-02-15-Gyak2.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\bin\Debug\net8.0\2025-02-15-Gyak2.pdb
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\refint\2025-02-15-Gyak2.dll
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.pdb
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\2025-02-15-Gyak2.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\2025-02-15-Gyak2\obj\Debug\net8.0\ref\2025-02-15-Gyak2.dll
