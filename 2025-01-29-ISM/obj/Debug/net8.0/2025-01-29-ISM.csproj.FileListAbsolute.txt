@@ -1,0 +1,4 @@
+D:\Nagy Álmos Botond\2025\2025-01-29-ISM\obj\Debug\net8.0\2025-01-29-ISM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\2025-01-29-ISM\obj\Debug\net8.0\2025-01-29-ISM.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\2025-01-29-ISM\obj\Debug\net8.0\2025-01-29-ISM.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\2025-01-29-ISM\obj\Debug\net8.0\2025-01-29-ISM.csproj.CoreCompileInputs.cache
