@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\02-12-self\bin\Debug\net8.0\02-12-self.exe
+D:\Nagy Álmos Botond\2025\02-12-self\bin\Debug\net8.0\02-12-self.deps.json
+D:\Nagy Álmos Botond\2025\02-12-self\bin\Debug\net8.0\02-12-self.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\02-12-self\bin\Debug\net8.0\02-12-self.dll
+D:\Nagy Álmos Botond\2025\02-12-self\bin\Debug\net8.0\02-12-self.pdb
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.dll
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\refint\02-12-self.dll
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.pdb
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\02-12-self.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\02-12-self\obj\Debug\net8.0\ref\02-12-self.dll
