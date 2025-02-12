@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\02-12-idk\bin\Debug\net8.0\02-12-idk.exe
+D:\Nagy Álmos Botond\2025\02-12-idk\bin\Debug\net8.0\02-12-idk.deps.json
+D:\Nagy Álmos Botond\2025\02-12-idk\bin\Debug\net8.0\02-12-idk.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\02-12-idk\bin\Debug\net8.0\02-12-idk.dll
+D:\Nagy Álmos Botond\2025\02-12-idk\bin\Debug\net8.0\02-12-idk.pdb
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.dll
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\refint\02-12-idk.dll
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.pdb
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\02-12-idk.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\02-12-idk\obj\Debug\net8.0\ref\02-12-idk.dll
