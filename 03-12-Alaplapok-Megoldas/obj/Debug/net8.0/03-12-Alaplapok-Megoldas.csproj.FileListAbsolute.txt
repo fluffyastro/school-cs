@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\bin\Debug\net8.0\03-12-Alaplapok-Megoldas.exe
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\bin\Debug\net8.0\03-12-Alaplapok-Megoldas.deps.json
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\bin\Debug\net8.0\03-12-Alaplapok-Megoldas.runtimeconfig.json
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\bin\Debug\net8.0\03-12-Alaplapok-Megoldas.dll
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\bin\Debug\net8.0\03-12-Alaplapok-Megoldas.pdb
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.dll
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\refint\03-12-Alaplapok-Megoldas.dll
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.pdb
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\03-12-Alaplapok-Megoldas.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\03-12-Alaplapok-Megoldas\obj\Debug\net8.0\ref\03-12-Alaplapok-Megoldas.dll
