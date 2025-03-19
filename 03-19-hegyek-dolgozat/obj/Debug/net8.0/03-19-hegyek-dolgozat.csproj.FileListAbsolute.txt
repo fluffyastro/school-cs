@@ -1,0 +1,14 @@
+D:\nb\03-19-hegyek-dolgozat\bin\Debug\net8.0\03-19-hegyek-dolgozat.exe
+D:\nb\03-19-hegyek-dolgozat\bin\Debug\net8.0\03-19-hegyek-dolgozat.deps.json
+D:\nb\03-19-hegyek-dolgozat\bin\Debug\net8.0\03-19-hegyek-dolgozat.runtimeconfig.json
+D:\nb\03-19-hegyek-dolgozat\bin\Debug\net8.0\03-19-hegyek-dolgozat.dll
+D:\nb\03-19-hegyek-dolgozat\bin\Debug\net8.0\03-19-hegyek-dolgozat.pdb
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.AssemblyInfoInputs.cache
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.AssemblyInfo.cs
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.csproj.CoreCompileInputs.cache
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.dll
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\refint\03-19-hegyek-dolgozat.dll
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.pdb
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\03-19-hegyek-dolgozat.genruntimeconfig.cache
+D:\nb\03-19-hegyek-dolgozat\obj\Debug\net8.0\ref\03-19-hegyek-dolgozat.dll

@@ -1,0 +1,112 @@
+Mount Everest - 8848 m
+K2 - 8611 m
+Kangchenjunga - 8586 m
+Lhotse - 8516 m
+Makalu - 8485 m
+Cho Oyu - 8188 m
+Dhaulagiri - 8167 m
+Manaslu - 8163 m
+Nanga Parbat - 8126 m
+Annapurna - 8091 m
+Gasherbrum I - 8080 m
+Broad Peak - 8051 m
+Gasherbrum II - 8034 m
+Shishapangma - 8027 m
+Gyachung Kang - 7952 m
+Annapurna II - 7937 m
+Masherbrum - 7821 m
+Nanda Devi - 7816 m
+Chomo Lonzo - 7804 m
+Batura Sar - 7795 m
+Kanjut Sar - 7760 m
+Rakaposhi - 7788 m
+Namcha Barwa - 7782 m
+Dhaulagiri II - 7751 m
+Kangchenjunga West - 7755 m
+Kangchenjunga South - 8494 m
+Jannu - 7710 m
+Teram Kangri - 7462 m
+Shispare - 7611 m
+Aconcagua - 6961 m
+Ojos del Salado - 6893 m
+Mount Vinson - 4892 m
+Mount Elbrus - 5642 m
+Mont Blanc - 4807 m
+Pico de Orizaba - 5636 m
+Mount Logan - 5959 m
+Denali (Mount McKinley) - 6190 m
+Mount Kenya - 5199 m
+Mount Kilimanjaro - 5895 m
+Puncak Jaya - 4884 m
+Damavand - 5610 m
+Gunnbjørn Fjeld - 3694 m
+Nevado Huascarán - 6768 m
+Chimborazo - 6268 m
+Cotopaxi - 5897 m
+Mount Kosciuszko - 2228 m
+Toubkal - 4167 m
+Volcán Tajumulco - 4220 m
+Pico Cristóbal Colón - 5775 m
+Mount Wilhelm - 4509 m
+Nevado Sajama - 6542 m
+Meru - 4562 m
+Mount Erebus - 3794 m
+Mount Sidley - 4285 m
+Pico Bolívar - 4978 m
+Mount Mitchell - 2037 m
+Mount Ararat - 5137 m
+Gerlachovský štít - 2655 m
+Grossglockner - 3798 m
+Mount Robson - 3954 m
+Pico Turquino - 1974 m
+Mount Roraima - 2810 m
+Mount Cook (Aoraki) - 3724 m
+Ben Nevis - 1345 m
+Mount Marcy - 1629 m
+Pico Duarte - 3098 m
+Ol Doinyo Lengai - 2962 m
+Table Mountain - 1086 m
+Snowdon - 1085 m
+Mount Katahdin - 1606 m
+Borjomi Mountain - 1825 m
+Mount Whitney - 4421 m
+Mauna Kea - 4205 m
+Mauna Loa - 4169 m
+Mount Hood - 3426 m
+Mount Rainier - 4392 m
+Mount St. Helens - 2549 m
+Mount Etna - 3329 m
+Mount Teide - 3715 m
+Jebel Toubkal - 4167 m
+Jebel Shams - 3009 m
+Jabal al-Lawz - 2580 m
+Mount Apo - 2954 m
+Pico de Aneto - 3404 m
+Hog's Back - 385 m
+Doi Inthanon - 2565 m
+Mount Kinabalu - 4095 m
+Fan Si Pan - 3143 m
+Mount Wilhelm - 4509 m
+Cerro Chirripó - 3820 m
+Cerro Torre - 3128 m
+Fitz Roy - 3405 m
+Nevado del Ruiz - 5321 m
+Popocatépetl - 5426 m
+Iztaccíhuatl - 5230 m
+El Misti - 5822 m
+Cerro Pissis - 6795 m
+Cerro Bonete - 6759 m
+Illimani - 6438 m
+Huayna Potosí - 6088 m
+Yerupajá - 6635 m
+Alpamayo - 5947 m
+Huascarán - 6768 m
+Cayambe - 5790 m
+Antisana - 5753 m
+Tungurahua - 5023 m
+Nevado del Tolima - 5215 m
+Coropuna - 6377 m
+Ampato - 6310 m
+Solimana - 6093 m
+Ararat - 5137 m
+Shiveluch - 3283 m
