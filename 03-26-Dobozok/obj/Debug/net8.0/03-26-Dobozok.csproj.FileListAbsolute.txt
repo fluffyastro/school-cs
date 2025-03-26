@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\bin\Debug\net8.0\03-26-Dobozok.exe
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\bin\Debug\net8.0\03-26-Dobozok.deps.json
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\bin\Debug\net8.0\03-26-Dobozok.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\bin\Debug\net8.0\03-26-Dobozok.dll
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\bin\Debug\net8.0\03-26-Dobozok.pdb
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.dll
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\refint\03-26-Dobozok.dll
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.pdb
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\03-26-Dobozok.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\03-26-Dobozok\obj\Debug\net8.0\ref\03-26-Dobozok.dll
