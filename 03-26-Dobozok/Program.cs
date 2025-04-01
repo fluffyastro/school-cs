@@ -19,9 +19,9 @@ namespace _03_26_Dobozok
             Random random1 = new Random();
             for (int i = 0; i < 50; i++)
             {
-                dobozok.Add(new Doboz(random1.Next(10, 100),random1.Next(10, 100),random1.Next(10, 100)));
+                dobozok.Add(new Doboz(random1.Next(10, 100), random1.Next(10, 100), random1.Next(10, 100)));
             }
-            
+
             //debug
             /*
             foreach(Doboz doboz in dobozok)
@@ -43,13 +43,23 @@ namespace _03_26_Dobozok
 
         static void feladat8()
         {
-            for (int i = 0;i < ;i++)
+            Doboz pontosan = dobozok.OrderBy(x => x.felszin).Last();
+            Console.WriteLine($"8. feladat: A legnagyobb felszín értéke: {pontosan.felszin}");
+        }
+
+        static void feladat9()
+        {
+            List<string> sorok = new List<string>();
+            dobozok.ForEach(x => sorok.Add($"{x.hosszusag} {x.szelesseg} {x.magassag} {x.terfogat} {x.felszin}"));
+            File.Create("\\dobozok.txt");
+            File.WriteAllLines("\\dobozok.txt",sorok.ToArray());
         }
         static void Main(string[] args)
         {
             feladat3();
             feladat6();
             feladat7();
+            feladat8();
             Console.WriteLine("fejbelovom magam");
         }
     }
@@ -72,4 +82,3 @@ namespace _03_26_Dobozok
         }
     }
 }
-
