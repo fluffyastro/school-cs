@@ -1,0 +1,14 @@
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.AssemblyInfoInputs.cache
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.AssemblyInfo.cs
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.csproj.CoreCompileInputs.cache
+D:\nb\2025\04-02-Exceptions\bin\Debug\net8.0\04-02-Exceptions.exe
+D:\nb\2025\04-02-Exceptions\bin\Debug\net8.0\04-02-Exceptions.deps.json
+D:\nb\2025\04-02-Exceptions\bin\Debug\net8.0\04-02-Exceptions.runtimeconfig.json
+D:\nb\2025\04-02-Exceptions\bin\Debug\net8.0\04-02-Exceptions.dll
+D:\nb\2025\04-02-Exceptions\bin\Debug\net8.0\04-02-Exceptions.pdb
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.dll
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\refint\04-02-Exceptions.dll
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.pdb
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\04-02-Exceptions.genruntimeconfig.cache
+D:\nb\2025\04-02-Exceptions\obj\Debug\net8.0\ref\04-02-Exceptions.dll
