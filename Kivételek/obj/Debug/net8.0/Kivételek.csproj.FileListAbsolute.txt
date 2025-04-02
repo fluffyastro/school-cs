@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\Kivételek\bin\Debug\net8.0\Kivételek.exe
+C:\Users\Tanulo\source\repos\Kivételek\bin\Debug\net8.0\Kivételek.deps.json
+C:\Users\Tanulo\source\repos\Kivételek\bin\Debug\net8.0\Kivételek.runtimeconfig.json
+C:\Users\Tanulo\source\repos\Kivételek\bin\Debug\net8.0\Kivételek.dll
+C:\Users\Tanulo\source\repos\Kivételek\bin\Debug\net8.0\Kivételek.pdb
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.dll
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\refint\Kivételek.dll
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.pdb
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\Kivételek.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\Kivételek\obj\Debug\net8.0\ref\Kivételek.dll
