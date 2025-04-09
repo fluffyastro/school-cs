@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\bin\Debug\net8.0\ListaFeldolgozo.exe
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\bin\Debug\net8.0\ListaFeldolgozo.deps.json
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\bin\Debug\net8.0\ListaFeldolgozo.runtimeconfig.json
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\bin\Debug\net8.0\ListaFeldolgozo.dll
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\bin\Debug\net8.0\ListaFeldolgozo.pdb
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.dll
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\refint\ListaFeldolgozo.dll
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.pdb
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ListaFeldolgozo.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\ListaFeldolgozo\obj\Debug\net8.0\ref\ListaFeldolgozo.dll

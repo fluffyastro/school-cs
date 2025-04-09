@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.AssemblyInfo.cs
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\szovegCuccolo\bin\Debug\net8.0\szovegCuccolo.exe
+D:\Nagy Álmos Botond\szovegCuccolo\bin\Debug\net8.0\szovegCuccolo.deps.json
+D:\Nagy Álmos Botond\szovegCuccolo\bin\Debug\net8.0\szovegCuccolo.runtimeconfig.json
+D:\Nagy Álmos Botond\szovegCuccolo\bin\Debug\net8.0\szovegCuccolo.dll
+D:\Nagy Álmos Botond\szovegCuccolo\bin\Debug\net8.0\szovegCuccolo.pdb
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.dll
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\refint\szovegCuccolo.dll
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.pdb
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\szovegCuccolo.genruntimeconfig.cache
+D:\Nagy Álmos Botond\szovegCuccolo\obj\Debug\net8.0\ref\szovegCuccolo.dll
