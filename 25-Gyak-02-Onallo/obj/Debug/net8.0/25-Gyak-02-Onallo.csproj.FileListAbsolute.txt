@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\bin\Debug\net8.0\25-Gyak-02-Onallo.exe
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\bin\Debug\net8.0\25-Gyak-02-Onallo.deps.json
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\bin\Debug\net8.0\25-Gyak-02-Onallo.runtimeconfig.json
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\bin\Debug\net8.0\25-Gyak-02-Onallo.dll
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\bin\Debug\net8.0\25-Gyak-02-Onallo.pdb
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.AssemblyInfo.cs
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.dll
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\refint\25-Gyak-02-Onallo.dll
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.pdb
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\25-Gyak-02-Onallo.genruntimeconfig.cache
+D:\Nagy Álmos Botond\25-Gyak-02-Onallo\obj\Debug\net8.0\ref\25-Gyak-02-Onallo.dll

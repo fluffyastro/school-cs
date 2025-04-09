@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.AssemblyInfo.cs
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\szovegFuggvenyek\bin\Debug\net8.0\szovegFuggvenyek.exe
+D:\Nagy Álmos Botond\szovegFuggvenyek\bin\Debug\net8.0\szovegFuggvenyek.deps.json
+D:\Nagy Álmos Botond\szovegFuggvenyek\bin\Debug\net8.0\szovegFuggvenyek.runtimeconfig.json
+D:\Nagy Álmos Botond\szovegFuggvenyek\bin\Debug\net8.0\szovegFuggvenyek.dll
+D:\Nagy Álmos Botond\szovegFuggvenyek\bin\Debug\net8.0\szovegFuggvenyek.pdb
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.dll
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\refint\szovegFuggvenyek.dll
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.pdb
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\szovegFuggvenyek.genruntimeconfig.cache
+D:\Nagy Álmos Botond\szovegFuggvenyek\obj\Debug\net8.0\ref\szovegFuggvenyek.dll

@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\bin\Debug\net8.0\03-05-dolgozat.exe
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\bin\Debug\net8.0\03-05-dolgozat.deps.json
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\bin\Debug\net8.0\03-05-dolgozat.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\bin\Debug\net8.0\03-05-dolgozat.dll
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\bin\Debug\net8.0\03-05-dolgozat.pdb
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.dll
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\refint\03-05-dolgozat.dll
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.pdb
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\03-05-dolgozat.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\03-05-dolgozat\obj\Debug\net8.0\ref\03-05-dolgozat.dll

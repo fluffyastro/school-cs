@@ -1,0 +1,14 @@
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\bin\Debug\net8.0\03-05-doga-teszt.exe
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\bin\Debug\net8.0\03-05-doga-teszt.deps.json
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\bin\Debug\net8.0\03-05-doga-teszt.runtimeconfig.json
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\bin\Debug\net8.0\03-05-doga-teszt.dll
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\bin\Debug\net8.0\03-05-doga-teszt.pdb
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.AssemblyInfoInputs.cache
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.AssemblyInfo.cs
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.csproj.CoreCompileInputs.cache
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.dll
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\refint\03-05-doga-teszt.dll
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.pdb
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\03-05-doga-teszt.genruntimeconfig.cache
+D:\Nagy Álmos Botond\2025\03-05-doga-teszt\obj\Debug\net8.0\ref\03-05-doga-teszt.dll
