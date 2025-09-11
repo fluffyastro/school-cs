@@ -1,0 +1,14 @@
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.GeneratedMSBuildEditorConfig.editorconfig
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.AssemblyInfoInputs.cache
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.AssemblyInfo.cs
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.csproj.CoreCompileInputs.cache
+D:\nb\20250911_Ismetles\20250911_Ismetles\bin\Debug\net8.0\20250911_Ismetles.exe
+D:\nb\20250911_Ismetles\20250911_Ismetles\bin\Debug\net8.0\20250911_Ismetles.deps.json
+D:\nb\20250911_Ismetles\20250911_Ismetles\bin\Debug\net8.0\20250911_Ismetles.runtimeconfig.json
+D:\nb\20250911_Ismetles\20250911_Ismetles\bin\Debug\net8.0\20250911_Ismetles.dll
+D:\nb\20250911_Ismetles\20250911_Ismetles\bin\Debug\net8.0\20250911_Ismetles.pdb
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.dll
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\refint\20250911_Ismetles.dll
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.pdb
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\20250911_Ismetles.genruntimeconfig.cache
+D:\nb\20250911_Ismetles\20250911_Ismetles\obj\Debug\net8.0\ref\20250911_Ismetles.dll
